@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e gerenciar meus repositórios
 
-<a href=https://www.youtube.com/c/CursoemV%C3%ADdeo> Acesse aqui e aprenda você também <a/>
+<a href=https://www.youtube.com/c/CursoemV%C3%ADdeo target="_blank"> Acesse aqui e aprenda você também <a/>
