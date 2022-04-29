@@ -1,6 +1,6 @@
 # html-css
  Curso de HTML5 e CSS3 do CursoemVideo
 
-Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
+Estou aprendendo a criar sites e gerenciar meus repositórios
 
-<a href="https:https://guilhermewilker.github.io/html-css/exercicios/ex001/index.html"> Executar o exercício 0001. </a>
+<a href=https://www.youtube.com/c/CursoemV%C3%ADdeo target="_blank"> Acesse aqui e aprenda você também <a/>
